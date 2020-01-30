@@ -12,4 +12,8 @@ https://medium.com/@perezpriego7/css-evolution-from-css-sass-bem-css-modules-to-
 
 3. Architecting for High Availability:
 
-https://www.youtube.com/watch?v=6uE2XULbT3o
+https://www.youtube.com/watch?v=6uE2XULbT3o 
+
+4. Constructing a POUR Website
+
+https://webaim.org/articles/pour/
